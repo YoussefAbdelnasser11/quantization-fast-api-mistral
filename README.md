@@ -1,4 +1,4 @@
-🚀 FastAPI Mistral Quantization & Ngrok Deployment
+ FastAPI Mistral Quantization & Ngrok Deployment
 
 This project demonstrates how to quantize a Mistral model for efficient inference and serve it through a FastAPI backend. It also includes Ngrok integration to expose the API endpoint for external access during local development.
 
